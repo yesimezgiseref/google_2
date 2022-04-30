@@ -1,0 +1,222 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin:35px;
+    }
+    .container2{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        }
+        .container3{
+            margin-top: 20px;
+        }
+
+    .arama{
+        width: 1000px;
+        height: 70px;
+       
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        
+    }
+    .buton{
+        box-sizing: border-box;
+    height: 50px;
+    display: flex;
+        align-items: center;
+    }
+    .input{
+        width: 500px;
+        border-radius: 20px;
+        height: 35px;
+    }
+    .input2{
+        width: 200px;
+        margin-top: 16px;
+    }
+    .arama2{
+        width: 400px;
+        height: 90px;
+     
+        float: left;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    
+    }
+    .arama3{
+        width: 200px;
+        height: 90px;
+    
+        float: left;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    
+    }
+    
+    .yer{
+    margin-left:258px;
+    position: fixed;
+    
+    
+    }
+    .yer1{
+        margin-left: auto;
+        margin-right: auto;
+        display: flex;
+        align-items: center;
+    
+    }
+ 
+    p{  
+     
+        margin-bottom:-16px ;
+    }
+    .body{
+        position:static;
+        padding-top: 100px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    ::placeholder{
+        color: black;
+    }
+    .RNNXgb {
+        display: flex;
+        z-index: 3;
+        height: 44px;
+        border: 1px solid #5f6368;
+        box-shadow: none;
+        border-radius: 24px;
+        margin: 0 auto;
+        width: 638px;
+        width: auto;
+        max-width: 584px;
+    }
+    .SDkEP {
+        flex: 1;
+        display: flex;
+        padding: 5px 8px 0 14px;
+    }
+    .gLFyf {
+        background-color: transparent;
+        border: none;
+        margin: 0;
+        padding: 0;
+        color: #e8eaed;
+        word-wrap: break-word;
+        outline: none;
+        display: flex;
+        flex: 100%;
+        -webkit-tap-highlight-color: transparent;
+        margin-top: -37px;
+        height: 34px;
+        font-size: 16px;
+    }
+    .YacQv {
+        color: transparent;
+        flex: 100%;
+        white-space: pre;
+        height: 34px;
+        font-size: 16px;
+    }
+    .XDyW0e {
+        flex: 1 0 auto;
+        display: flex;
+        cursor: pointer;
+        align-items: center;
+        border: 0;
+        background: transparent;
+        outline: none;
+        padding: 0 8px;
+        width: 24px;
+        line-height: 44px;
+    }
+    .dRYYxd {
+        display: flex;
+        flex: 0 0 auto;
+        margin-top: -5px;
+        align-items: stretch;
+        flex-direction: row;
+    }
+    .BKRPef {
+        flex: 1 0 auto;
+        display: none;
+        cursor: pointer;
+        align-items: center;
+        border: 0;
+        background: transparent;
+        outline: none;
+        padding: 0 8px;
+        line-height: 44px;
+    }
+    .BKRPef {
+        padding-right: 4px;
+    }
+    
+ 
+    svg:not(:root) {
+        overflow: hidden;
+    }
+
+    .CcAdNb {
+        margin: auto;
+    }.QCzoEc {
+        margin-top: 3px;
+        color: #9aa0a6;
+    }.z1asCe {
+        display: inline-block;
+        fill: currentColor;
+        height: 24px;
+        line-height: 24px;
+        position: relative;
+        width: 24px;
+    }.z1asCe svg {
+        display: block;
+        height: 100%;
+        width: 100%;
+    }
+    .iblpc {
+        display: flex;
+        align-items: center;
+        padding-right: 13px;
+        margin-top: -5px;
+    }
+    .yAnw3c {
+        visibility: hidden;
+    }
+
+   .ExCKkf {
+        height: 100%;
+        color: #757b80;
+        vertical-align: middle;
+        outline: none;
+    }.ExCKkf {
+        margin-right: 12px;
+    }.ACRAdd {
+        border-left: 1px solid #5f6368;
+        height: 65%;
+    }.Umvnrc {
+        flex: 1 0 auto;
+        display: flex;
+        cursor: pointer;
+        align-items: center;
+        border: 0;
+        background: transparent;
+        outline: none;
+        padding: 0 8px;
+        width: 24px;
+        line-height: 44px;
+    }.ly0Ckb {
+        background: url(/images/keyboard.png) no-repeat center;
+        height: 24px;
+        width: 24px;
+        vertical-align: middle;
+    }.goxjub {
+        height: 24px;
+        width: 24px;
+        vertical-align: middle;
+    }
