@@ -84,7 +84,7 @@
     ::placeholder{
         color: black;
     }
-    .RNNXgb {
+    .sinif1 {
         display: flex;
         z-index: 3;
         height: 44px;
@@ -96,12 +96,12 @@
         width: auto;
         max-width: 584px;
     }
-    .SDkEP {
+    .sinif2 {
         flex: 1;
         display: flex;
         padding: 5px 8px 0 14px;
     }
-    .gLFyf {
+    .sinif3 {
         background-color: transparent;
         border: none;
         margin: 0;
@@ -116,14 +116,14 @@
         height: 34px;
         font-size: 16px;
     }
-    .YacQv {
+    .sinif4 {
         color: transparent;
         flex: 100%;
         white-space: pre;
         height: 34px;
         font-size: 16px;
     }
-    .XDyW0e {
+    .sinif5 {
         flex: 1 0 auto;
         display: flex;
         cursor: pointer;
@@ -135,14 +135,14 @@
         width: 24px;
         line-height: 44px;
     }
-    .dRYYxd {
+    .sinif6 {
         display: flex;
         flex: 0 0 auto;
         margin-top: -5px;
         align-items: stretch;
         flex-direction: row;
     }
-    .BKRPef {
+    .sinif7 {
         flex: 1 0 auto;
         display: none;
         cursor: pointer;
@@ -153,7 +153,7 @@
         padding: 0 8px;
         line-height: 44px;
     }
-    .BKRPef {
+    .sinif7 {
         padding-right: 4px;
     }
     
@@ -162,60 +162,45 @@
         overflow: hidden;
     }
 
-    .CcAdNb {
+    .sinif8 {
         margin: auto;
-    }.QCzoEc {
+    }.sinif9 {
         margin-top: 3px;
         color: #9aa0a6;
-    }.z1asCe {
+    }.sinif10 {
         display: inline-block;
         fill: currentColor;
         height: 24px;
         line-height: 24px;
         position: relative;
         width: 24px;
-    }.z1asCe svg {
+    }.sinif10 svg {
         display: block;
         height: 100%;
         width: 100%;
     }
-    .iblpc {
+    .sinif11 {
         display: flex;
         align-items: center;
         padding-right: 13px;
         margin-top: -5px;
     }
-    .yAnw3c {
+    .sinif12 {
         visibility: hidden;
     }
 
-   .ExCKkf {
+   .sinif13 {
         height: 100%;
         color: #757b80;
         vertical-align: middle;
         outline: none;
-    }.ExCKkf {
+    }.sinif13 {
         margin-right: 12px;
-    }.ACRAdd {
+    }.sinif14 {
         border-left: 1px solid #5f6368;
         height: 65%;
-    }.Umvnrc {
-        flex: 1 0 auto;
-        display: flex;
-        cursor: pointer;
-        align-items: center;
-        border: 0;
-        background: transparent;
-        outline: none;
-        padding: 0 8px;
-        width: 24px;
-        line-height: 44px;
-    }.ly0Ckb {
-        background: url(/images/keyboard.png) no-repeat center;
-        height: 24px;
-        width: 24px;
-        vertical-align: middle;
-    }.goxjub {
+    }
+.sinif15 {
         height: 24px;
         width: 24px;
         vertical-align: middle;
